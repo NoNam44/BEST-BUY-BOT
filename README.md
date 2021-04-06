@@ -16,5 +16,3 @@ if you like it, support me because more project coming up!!! More support = More
 ETH: 0x559C5AcF0B64e23556F1A48fD219a1B9f7064388
 
 BITCOIN: bc1q7s350vfnezw09ha3jy8g3vplsuwjjk0g46gsqy
-
-Or you can buy my bot here! https://www.fiverr.com/cheapest_bots/create-bot-for-bestbuy
